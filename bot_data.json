@@ -1,0 +1,756 @@
+{
+  "users": {
+    "1394594257859510365": {
+      "balance": 972,
+      "bank": 0,
+      "xp": 1627,
+      "level": 11,
+      "daily_last": "2025-12-01T09:03:15.189008",
+      "work_last": "2025-12-01T08:54:40.936594",
+      "inventory": {},
+      "vc_time": 15545.88775,
+      "vc_join_time": null,
+      "message_count": 189,
+      "username_history": []
+    },
+    "1026204530330841169": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 40,
+      "level": 3,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 0,
+      "vc_join_time": null,
+      "message_count": 16,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": [
+        1444935781956190259
+      ]
+    },
+    "1437526966403072151": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 918,
+      "level": 6,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 16545.286801000002,
+      "vc_join_time": null,
+      "message_count": 113,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    },
+    "1440425324880986122": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 343,
+      "level": 3,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 18087.833096000002,
+      "vc_join_time": null,
+      "message_count": 1,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    },
+    "1087255288190611566": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 403,
+      "level": 3,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 757.916932,
+      "vc_join_time": null,
+      "message_count": 5,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null
+    },
+    "1442549865878913207": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 39,
+      "level": 1,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 10191.003698,
+      "vc_join_time": null,
+      "message_count": 0,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    },
+    "1422041393983000710": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 499,
+      "level": 3,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 12901.277612000002,
+      "vc_join_time": null,
+      "message_count": 11,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null
+    },
+    "743119851488542771": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 23,
+      "level": 3,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 15890.725182999999,
+      "vc_join_time": "2025-12-02T07:14:19.443298",
+      "message_count": 13,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    },
+    "843724051200344064": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 0,
+      "level": 1,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 15782.916627,
+      "vc_join_time": null,
+      "message_count": 0,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null
+    },
+    "1404893034511990906": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 17,
+      "level": 1,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 9651.318619,
+      "vc_join_time": null,
+      "message_count": 1,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    },
+    "1442734577360830586": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 529,
+      "level": 6,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 42981.04962499999,
+      "vc_join_time": "2025-12-02T07:41:57.103535",
+      "message_count": 172,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    },
+    "1369402563690233866": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 404,
+      "level": 3,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 0,
+      "vc_join_time": null,
+      "message_count": 38,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null
+    },
+    "1267616869536366765": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 259,
+      "level": 2,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 241.025271,
+      "vc_join_time": null,
+      "message_count": 19,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null
+    },
+    "1352770173249257472": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 15,
+      "level": 1,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 0,
+      "vc_join_time": null,
+      "message_count": 1
+    },
+    "1436058715512897567": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 55,
+      "level": 3,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 26250.196756,
+      "vc_join_time": null,
+      "message_count": 23,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    },
+    "1244529736785461288": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 0,
+      "level": 2,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 31457.861491999996,
+      "vc_join_time": null,
+      "message_count": 6,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null
+    },
+    "1054102005213298728": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 0,
+      "level": 1,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 3525.098029,
+      "vc_join_time": null,
+      "message_count": 0,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null
+    },
+    "1072911545773850644": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 17,
+      "level": 1,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 21.064061,
+      "vc_join_time": null,
+      "message_count": 1,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null
+    },
+    "1436058155522982028": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 63,
+      "level": 4,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 5258.220067,
+      "vc_join_time": null,
+      "message_count": 51,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null
+    },
+    "997964837516759150": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 0,
+      "level": 1,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 6789.283181999999,
+      "vc_join_time": null,
+      "message_count": 0,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    },
+    "1430335997006319700": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 23,
+      "level": 1,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 2152.14448,
+      "vc_join_time": "2025-12-02T07:49:03.999936",
+      "message_count": 1,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    },
+    "684773505157431347": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 0,
+      "level": 1,
+      "daily_last": null,
+      "work_last": null,
+      "inventory": {},
+      "vc_time": 631.652248,
+      "vc_join_time": null,
+      "message_count": 0,
+      "afk": false,
+      "afk_status": "AFK",
+      "afk_time": null,
+      "jail_roles": []
+    }
+  },
+  "guilds": {
+    "1439989176685564050": {
+      "voicemaster": {
+        "enabled": true,
+        "category_id": 1444997855394664579,
+        "join_channel_id": 1444997856271405149,
+        "interface_channel_id": 1444997857554858176,
+        "temp_channels": {},
+        "setup_complete": true,
+        "temp_category_id": null,
+        "priv_enabled": false,
+        "priv_setup_complete": false,
+        "priv_category_id": null,
+        "priv_join_channel_id": null,
+        "priv_temp_channels": {}
+      },
+      "snipes": [
+        {
+          "author": "yousaidyouswore",
+          "author_id": 1026204530330841169,
+          "content": "nigger",
+          "timestamp": "2025-12-01T09:53:08.874484",
+          "attachments": []
+        },
+        {
+          "author": "yousaidyouswore",
+          "author_id": 1026204530330841169,
+          "content": "nigger",
+          "timestamp": "2025-12-01T09:53:01.363191",
+          "attachments": []
+        },
+        {
+          "author": "yousaidyouswore",
+          "author_id": 1026204530330841169,
+          "content": "nigger",
+          "timestamp": "2025-12-01T09:52:54.221768",
+          "attachments": []
+        }
+      ],
+      "autorole": {
+        "enabled": true,
+        "role_id": 1444960727294021795
+      },
+      "ping_on_join": {
+        "enabled": true,
+        "channels": [
+          1440362030145212467
+        ]
+      },
+      "filter": [
+        "nigger",
+        "fag"
+      ],
+      "antinuke": {
+        "enabled": true,
+        "kick": false,
+        "ban": false,
+        "role": false,
+        "channel": false,
+        "webhook": false,
+        "emoji": false,
+        "botadd": true,
+        "permissions": false,
+        "vanity": false,
+        "whitelisted": [],
+        "admins": []
+      },
+      "logs": {
+        "1444995245170364496": {
+          "channel_name": "ss",
+          "events": [
+            "messages"
+          ]
+        }
+      },
+      "welcome": {},
+      "vanity": {
+        "enabled": false,
+        "substring": null,
+        "award_channel_id": null,
+        "log_channel_id": null,
+        "award_message": "Congratulations! You have vanity!",
+        "roles": []
+      }
+    },
+    "1444923821223051326": {
+      "voicemaster": {
+        "enabled": true,
+        "setup_complete": true,
+        "category_id": 1445106114680324352,
+        "join_channel_id": 1445106116089479298,
+        "interface_channel_id": 1445106117096243261,
+        "temp_channels": {
+          "1445311919429783623": 1430335997006319700
+        },
+        "temp_category_id": 1445000804447686738,
+        "priv_enabled": true,
+        "priv_setup_complete": true,
+        "priv_category_id": 1445106244997091432,
+        "priv_join_channel_id": 1445106406284988478,
+        "priv_temp_channels": {}
+      },
+      "snipes": [
+        {
+          "author": "67jaqs",
+          "author_id": 1442734577360830586,
+          "author_avatar": "https://cdn.discordapp.com/avatars/1442734577360830586/3cf0bfe4a878cc9d7be64bbdfc000315.png?size=1024",
+          "content": "s",
+          "timestamp": "2025-12-02T07:57:40.590043",
+          "attachments": []
+        }
+      ],
+      "autorole": {
+        "enabled": true,
+        "role_id": 1444935781956190259
+      },
+      "ping_on_join": {
+        "enabled": false,
+        "channels": []
+      },
+      "filter": [],
+      "logs": {
+        "1445003858844844212": {
+          "channel_name": "logs",
+          "events": [
+            "all"
+          ]
+        },
+        "1445007017788838030": {
+          "channel_name": "voice-log",
+          "events": [
+            "voice"
+          ]
+        },
+        "1445007307455856670": {
+          "channel_name": "voice-logs",
+          "events": [
+            "voice"
+          ]
+        },
+        "1445007455909056632": {
+          "channel_name": "voice-logs",
+          "events": [
+            "voice"
+          ]
+        },
+        "1445132482813890570": {
+          "channel_name": "logs",
+          "events": [
+            "all"
+          ]
+        },
+        "1445132815694823535": {
+          "channel_name": "message-logs",
+          "events": [
+            "messages"
+          ]
+        },
+        "1445132900541399316": {
+          "channel_name": "member-logs",
+          "events": [
+            "members"
+          ]
+        },
+        "1445133070876278936": {
+          "channel_name": "role-logs",
+          "events": [
+            "roles"
+          ]
+        },
+        "1445133158755598387": {
+          "channel_name": "invite-logs",
+          "events": [
+            "invites"
+          ]
+        },
+        "1445133263856210051": {
+          "channel_name": "voice-logs",
+          "events": [
+            "voice"
+          ]
+        },
+        "1445275031344119858": {
+          "channel_name": "join-and-leaves-logs",
+          "events": [
+            "joinandleaves"
+          ]
+        }
+      },
+      "welcome": {},
+      "vanity": {
+        "enabled": false,
+        "substring": null,
+        "award_channel_id": null,
+        "log_channel_id": null,
+        "award_message": "Congratulations! You have vanity!",
+        "roles": []
+      },
+      "spam_filter": {
+        "enabled": true,
+        "channels": {},
+        "threshold": 5,
+        "timeframe": 5000
+      },
+      "antinuke": {
+        "enabled": true,
+        "admins": [],
+        "whitelist": [],
+        "ban": false,
+        "kick": true,
+        "channel": false,
+        "role": false,
+        "webhook": false,
+        "emoji": false,
+        "permissions": false,
+        "role_deletion": true,
+        "vanity_protection": true,
+        "webhook_creation": true,
+        "invite_links": true
+      },
+      "username_history": [
+        {
+          "username": "yousaidyouswore",
+          "changed_at": "2025-12-01T17:08:26.385188"
+        }
+      ],
+      "jail": {
+        "enabled": true,
+        "role_id": 1445311472920952887,
+        "channel_id": 1445311474019995801
+      },
+      "antiraid": {
+        "enabled": true,
+        "raid_state": false,
+        "check_avatar": false,
+        "check_new_accounts": true,
+        "action": "kick",
+        "new_account_days": 5,
+        "whitelist": []
+      }
+    },
+    "1445069263055618110": {
+      "voicemaster": {
+        "enabled": false,
+        "setup_complete": false,
+        "category_id": null,
+        "join_channel_id": null,
+        "interface_channel_id": null,
+        "temp_category_id": null,
+        "temp_channels": {},
+        "priv_enabled": false,
+        "priv_setup_complete": false,
+        "priv_category_id": null,
+        "priv_join_channel_id": null,
+        "priv_temp_channels": {}
+      },
+      "snipes": [
+        {
+          "author": "eyebag",
+          "author_id": 1394594257859510365,
+          "content": ",log add <#1445080670648008866> messages",
+          "timestamp": "2025-12-01T15:54:47.456443",
+          "attachments": []
+        }
+      ],
+      "autorole": {
+        "enabled": false,
+        "role_id": null
+      },
+      "ping_on_join": {
+        "enabled": false,
+        "channels": []
+      },
+      "filter": [],
+      "logs": {
+        "1445071722171731988": {
+          "channel_name": "inv",
+          "events": [
+            "invites"
+          ]
+        },
+        "1445080670648008866": {
+          "channel_name": "\u318dmessage-logs",
+          "events": [
+            "messages"
+          ]
+        },
+        "1445080806832738486": {
+          "channel_name": "member-logs",
+          "events": [
+            "members"
+          ]
+        },
+        "1445080901557162046": {
+          "channel_name": "role-logs",
+          "events": [
+            "roles"
+          ]
+        },
+        "1445080992925880380": {
+          "channel_name": "invite-logs",
+          "events": [
+            "invites"
+          ]
+        },
+        "1445081128967864401": {
+          "channel_name": "voice-logs",
+          "events": [
+            "voice"
+          ]
+        }
+      },
+      "welcome": {},
+      "vanity": {
+        "enabled": true,
+        "substring": "wowie",
+        "award_channel_id": null,
+        "log_channel_id": null,
+        "award_message": "Congratulations! You have vanity!",
+        "roles": [
+          1445077286343807066
+        ]
+      }
+    },
+    "1445102891844108351": {
+      "voicemaster": {
+        "enabled": true,
+        "setup_complete": true,
+        "category_id": 1445106042727043212,
+        "join_channel_id": 1445106043838533785,
+        "interface_channel_id": 1445106045126049823,
+        "temp_category_id": null,
+        "temp_channels": {},
+        "priv_enabled": false,
+        "priv_setup_complete": false,
+        "priv_category_id": null,
+        "priv_join_channel_id": null,
+        "priv_temp_channels": {}
+      },
+      "snipes": [
+        {
+          "author": "eyebag",
+          "author_id": 1394594257859510365,
+          "content": ",lock",
+          "timestamp": "2025-12-01T17:26:32.220032",
+          "attachments": []
+        }
+      ],
+      "autorole": {
+        "enabled": false,
+        "role_id": null
+      },
+      "ping_on_join": {
+        "enabled": false,
+        "channels": []
+      },
+      "filter": [],
+      "spam_filter": {
+        "enabled": false,
+        "channels": {},
+        "threshold": 5,
+        "timeframe": 5000
+      },
+      "logs": {},
+      "welcome": {},
+      "vanity": {
+        "enabled": false,
+        "substring": null,
+        "award_channel_id": null,
+        "log_channel_id": null,
+        "award_message": "Congratulations! You have vanity!",
+        "roles": []
+      },
+      "antinuke": {
+        "enabled": false,
+        "admins": [],
+        "whitelist": [],
+        "role_deletion": false,
+        "channel_deletion": false,
+        "emoji_deletion": false,
+        "mass_member_ban": false,
+        "mass_member_kick": false,
+        "webhook_creation": false,
+        "vanity_protection": false,
+        "watch_permissions_grant": [],
+        "deny_bot_joins": false
+      },
+      "username_history": [],
+      "vanity_history": []
+    }
+  },
+  "username_history": [
+    {
+      "username": "cnccs",
+      "changed_at": "2025-12-01T20:16:43.544877"
+    },
+    {
+      "username": "ebopping",
+      "changed_at": "2025-12-01T21:42:30.781803"
+    },
+    {
+      "username": "heretovibee",
+      "changed_at": "2025-12-02T01:08:24.450501"
+    },
+    {
+      "username": "f8mb",
+      "changed_at": "2025-12-02T04:56:07.214526"
+    },
+    {
+      "username": "esexdemons",
+      "changed_at": "2025-12-02T04:57:27.947126"
+    }
+  ],
+  "vanity_history": []
+}
